@@ -1,0 +1,1171 @@
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS
+FOR THE F O U R T H Q U A R T E R
+ENDED 31 DECEMBER 2022
+STANDARD ALLIANCE INSURANCE PLC
+STATEMENT OF FINANCIAL POSITION AS AT 31 DECEMBER 2022
+ASSETS NOTES 2022 2021
+N'000 N'000
+Cash and cash equivalents 5 695,776 1,945,556
+Financial Assets:
+- At fair value through profit or loss 6.1 40,501 36,461
+- At amortised cost 6.2 603,061 404,841
+- At fair value through other comprehensive income 6.3 200,080 175,291
+Reinsurance assets 7 324,037 368,242
+Trade receivables 8 8,849 8,074
+Other receivables and prepayments 9 167,317 144,570
+Deferred acquisition costs 10 - -
+Investment properties 11 4,030,067 4,030,067
+Intangible assets 12 - -
+Property, plant and equipment 13 35,663 50,233
+Statutory deposit 14 535,000 535,000
+TOTAL ASSETS 6,640,351 7,698,336
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Insurance contract liabilities 15 5,078,824 5,037,459
+Investment contract liabilities 16 2,713,529 2,584,313
+Trade payables 17 - 44,205
+Other payables and accruals 18 498,487 850,919
+Borrowings 19 1,976,233 1,994,015
+Finance lease obligations 20 - -
+Income tax liabilities 21 273,736 273,735
+Deferred tax liabilities 22 61,909 61,909
+TOTAL LIABILITIES 10,602,718 10,846,555
+SHAREHOLDERS' EQUITY
+Share capital 23 6,455,515 6,455,515
+Treasury shares 24 (1,145) (1,145)
+Share premium 25 7,484,955 7,484,955
+Contingency reserves 26 1,771,961 1,768,801
+Accumulated loss 27 (19,767,979) (18,925,882)
+Revaluation reserves 28 48,292 48,292
+Fair value reserves 29 46,034 21,245
+Total equity (3,962,367) (3,148,219)
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY 6,640,351 7,698,336
+Mr. Michael Owope Mr. Paulinus Offorzor Mr. Akin Iroko
+FRC/2018/PRO/ICAN/001/00000017730 FRC/2013/PRO/CIIN/002/0000000328 FRC/2024/PRO/DIR/003/358339
+Chief Finance Officer Managing Director/CEO Chairman
+The accounting policies on pages 19 to 36, notes on pages 41 to 78 and other national disclosures on pages 79 to 81 form an
+integral part of these financial statements.
+37
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+NOTES 2022 2021
+N'000 N'000
+Gross premium written 30 105,330 402,670
+Unearned premium 30 62,136 50,368
+Gross premium income 167,466 453,038
+Reinsurance expenses 15.6 - (23,954)
+Net premium income 167,466 429,084
+Commission income 31 - -
+Net underwriting income 167,466 429,084
+Claims expenses (net) 32 (640,746) (881,065)
+Underwriting expenses 33 (9,151) (40,853)
+Total underwriting expenses (649,897) (921,917)
+Underwriting (loss)/profit (482,431) (492,834)
+Investment income 34(a) 26,730 13,289
+Other income 34(b) 100 15,416
+Gain/(loss) on investment contract liabilities 35 - 1,780
+Management expenses 36 (405,158) (882,316)
+Expected credit loss expense 36(a) - (529)
+Impairment- Other debtors 36(c) -
+Finance charges 37 (76,688) (135,920)
+Fair value gain on financial assets 6.1(a) 4,041 (31,801)
+Impairment of claims recoverable 7.1 - -
+Fair value loss on investment properties 11 - -
+Foreign exchange gain/(loss) 94,470 (213,503)
+Loss before taxation 41 (838,936) (1,726,418)
+Income tax (expenses)/gain 21 (1) 1,915
+Deferred tax credit 21 - -
+Information technology development levy 38 - -
+Loss for the period (838,937) (1,724,503)
+Other comprehensive income
+Item that may be reclassified to profit or loss:
+Fair value gain/(loss) on financial assets at FVOCI 29 24,789 15,935
+Revaluation loss on building 28
+Revaluation surplus reversed during the year 28
+Other comprehensive loss 24,789 15,935
+Total comprehensive loss for the period (814,148) (1,708,568)
+Earnings per share : Basic (Naira) 41 (6.50) (13.36)
+The accounting policies on pages 19 to 36, notes on pages 41 to 78 and other national disclosures on pages 79
+to 81 form an integral part of these financial statements.
+38
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 30
+DECEMBER 2022
+STATEMENT OF CHANGES IN EQUITY
+Share Treasury Share Contingency Accumulated Revaluation Fair value Fair value
+Capital shares Premium Reserves Loss Reserves Reserve Reserves Total
+N'000 N'000 N'000 N'000 N'000 N'000 N'000 N'000 N'000
+At 1 October 2022 6,455,515 (1,141) 7,484,955 1,768,800 (18,925,882) 48,291 21,245 - (3,148,217)
+Total comprehensive income for the period: -
+Loss for the period - - - - (838,937) - - - (838,937)
+Transfer to contingency reserve (Note 26) - - - 3,160 (3,160) - - - -
+Fair value loss on treasury shares (Note 24) - - - - - - - - -
+Other comprehensive income: - - - - - - - -
+Revaluation on building (Note 28) - - - - - - - - -
+Revaluation surplus reversed during the year (Note 28) - - - - - - - -
+Fair value loss on financial assets at fair value through other comprehensive income
+(Note 30) - - - - - - 24,789 - 24,789
+At 31 December 2022 6,455,515 (1,141) 7,484,955 1,771,960 (19,767,979) 48,291 46,034 - (3,962,365)
+At 1 October 2021 6,455,515 (1,141) 7,484,955 1,756,720 (17,189,298) 48,291 5,310 - (1,439,648)
+(1,724,503) (1,724,503)
+Loss for the period -
+Transfer to contingency reserve (Note 26) 12,080 (12,080) -
+Fair value loss on treasury shares (Note 24) - - - - - - - - -
+Fair value loss on available for sale financial assets - - - - - - - - -
+Other comprehensive income: - - - - - - - - -
+Revaluation surplus reversed during the period (Note 28) - - - - - - - -
+Fair value loss on financial assets at fair value through other comprehensive income ( - - - - - - 15,935 - 15,935
+- - - - - - - -
+- - - - - - - - -
+At 31 December 2021 6,455,515 (1,141) 7,484,955 1,768,800 (18,925,882) 48,291 21,245 - (3,148,216)
+The accounting policies on pages 19 to 36, notes on pages 41 to 78 and other national disclosures on pages 79 to 81 form an integral part of these financial statements.
+39
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+STATEMENT OF CASH FLOWS
+NOTES 2022 2021
+Cash flows from operating activities N'000 N'000
+Premium received from policy holders 40 104,555 396,871
+Cash received on investment contract 16 129,216 2,128,794
+Cash withdrawals on investment contract 16 - -
+Fees and commission 31 - -
+Other income 34(b) - -
+Claims recovered 32a - (58)
+Claims paid 32 (599,432) (430,241)
+Cash payments for reinsurance 15.7 (36,257) (23,954)
+Commissions paid 33a (17,099) (47,948)
+Other acquisition costs paid 33 - -
+Loans against policy 6.2.1(b) - -
+Repayment of policy loan 6.2.1(b) (554) -
+Cash payments to employees, suppliers and others (780,650) (1,746,556)
+(1,200,221) 276,909
+Taxes paid: Income tax (45,000)
+Net cash used from operating activities (1,200,221) 231,909
+Cash flows from investing activities
+Purchase of Property, plant and equipment 13 (781)
+Rental income 18.2 1,501
+Dividends received 34(a) 3,683
+Interest on treasury bills 34(a) -
+Interest received on fixed deposits 34(a) 22,726
+Gain from sale of property, plant & equipment 34b -
+Proceeds from sale of property, plant and equipment -
+Proceeds from sale of investment property -
+Liquidation of financial assets at amortised cost 6.2.2a
+Addition to financial assets at amortised cost 6.2.2(a)
+Net cash generated from investing activities
+Cash flows from financing activities
+Finance charges 37 (76,688) (135,920)
+Repayment of lease finance 20 - -
+Loan borrowing 19.2 - -
+Loan repayment 19.2 - (100,000)
+Net cash (used)/flows from financing activities (76,688) (235,920)
+Net decrease in cash and cash equivalents during the year (1,249,780) 779,746
+Cash and cash equivalents at the beginning of the year 1,945,556 1,165,810
+Cash and cash equivalents at the end of the year 695,776 1,945,556
+Cash and cash equivalent comprise:
+Cash in hand 116 -
+Current Bank accounts balances 47,421 53,989
+Short term deposits - Local banks 648,239 1,891,567
+5 695,776 1,945,556
+The accounting policies on pages 19 to 36, notes on pages 41 to 78 and other national disclosures on pages 79 to
+81 form an integral part of these financial statements.
+40
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER
+ENDED 31 DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS
+(continuURTHed)
+2022 2021
+5 Cash and cash equivalents N'000 N'000
+Cash in hand 116 -
+Bank balances 47,421 53,989
+Short term deposits 651,429 1,894,757
+698,966 1,948,746
+Allowance for credit losses (Note 6a) (3,190) (3,190)
+695,776 1,945,556
+Included in short term deposits is a sum of N3,182,144.27 (2021: N3,182,144.27) being unclaimed dividends returned by First
+Registrars Limited as instructed by the Securities and Exchange Commission (SEC). This amount is included in other accruals
+(Note 18).
+Short-term deposits are made for varying periods of between one day and three months depending on the immediate cash
+requirements of the Company.
+5(a) Impairment allowance for cash and cash equivalents
+At 1 October 3,190 3,190
+Movements during the year (Note 36a) - -
+At 31 December 3,190 3,190
+6 Financial assets
+At fair value through profit or loss (FVPL) - Note 6.1 40,501 36,461
+At amortised cost (Note 6.2) 603,061 404,841
+At fair value through other comprehensive income (FVOCI) - Note 6.3.1 200,080 175,291
+843,642 616,593
+6.1 Financial assets at fair value through profit or loss (FVPL)
+At 1 October 36,461 68,262
+Addition during the period - -
+Fair value gain/(loss) during the year [Note 6.1(a)] 4,041 (31,801)
+Disposal during the period - -
+At 31 December 40,501 36,461
+6.1(a) Fair value (gain)/loss disclosed in the income statement is as analysed below:
+Fair value gain/(loss) on equity instrument carried at FVPL (Note 6.1) 4,041 (31,801)
+4,041 (31,801)
+41
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER
+ENDED 31 DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued) 2022 2021
+N'000 N'000
+6.1.2 Analysis of the fair value of the Company's investments in listed entities is shown below:
+ABC Transport Plc 2,587 3,208
+Africa Prudential Registrar Plc 83 88
+Dangote Sugar Refineries Plc 4,815 5,220
+Diamond Bank Plc (Now Access Bank Plc) 729 797
+Ecobank Transnational Plc (ETI) 170 139
+First City Monument Bank Limited 7,409 5,754
+Fidelity Bank Plc 10,395 6,094
+First Bank of Nigeria Limited 4,695 4,938
+UBA Capital 779 551
+United Bank for Africa Plc 3,488 3,695
+Stanbic IBTC Holdings Plc 5,352 5,760
+40,502 36,243
+6.2 Financial assets at amortised costs
+Loans and receivables (Note 6.2.1) 68,573 68,573
+Treasury bills (Note 6.2.2) - 336,268
+Bonds (Note 6.2.3) 534,488 -
+603,061 404,841
+6.2.1 Loans and receivables
+Loans against policies (Note 7.2.1a) 69,679 69,125
+Staff debtors (Note 7.2.1c) 1,227 1,227
+Agency loan - 554
+70,906 70,906
+Allowance for (2,333) (2,333)
+68,573 68,573
+6.2.1a Loans against policies
+The Company grants commercial loans to life policyholders. The surrender values serve as collaterals for the loans.
+The details of the loans are as shown below:
+2022 2021
+N'000 N'000
+GSL policy loan 14,621 14,621
+Standard Life Accumulator Scheme (SLA) 3,263 3,263
+Special Personnel Policy (SPP) 5,093 5,093
+Flexible Assurance scheme (FAS) 478 478
+Personal Providence Plan (PPP) 43,396 43,396
+Annuity Policy Loan 200 200
+Deposit Link Assurance (DELAS) 2,048 2,048
+SIP- Policy loan 26 26
+69,125 69,125
+42
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER
+ENDED 31 DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS
+(continuURTHed)
+2022 2021
+N'000 N'000
+6.2.1b Movement in loans against policies
+At 1 October 69,125 69,125
+Additions during the period - -
+Repayments 554 -
+At 31 December 69,679 69,125
+6.2.1c Movement in staff debtors
+At 1 October 1,227 1,439
+Additions during the period - -
+Repayments during the period - (212)
+At 30 December 1,227 1,227
+6.2.2 Treasury bill
+Treasury bills (Note 6.2.2a) 336,268 393,491
+Matured and transferred to short-term deposit (336,268) (57,425)
+Allowance for credit losses - 202
+- 336,268
+The Company's existing treasury bills matured during the year. The sum of N57.425 million
+of the proceeds was invested in short-term deposits, while the balance of N336.27 million
+was reinvested in 90-day tenored treasury bills to mature on 24 February 2022. In 2022,
+bills were liquidated and deposited in a bank.
+6.2.3 Bonds 534,488 -
+During the year, the company invested in corporate and FGN bonds with a maturity date of
+7 and 6 years, respectively. These investments are measured at amortised cost using the
+effective interest rates of 13% and 16.288%. The interests are accrued biannually and paid
+into Zenith Bank, UBA, and Access Bank.
+6.2.3 Impairment allowance for amortised costs
+At 1 October - (202)
+Charged to profit or loss during the period (Note - 202
+36a) - -
+At 31 December
+ECL allowance on amortised costs charged to profit or loss during the year is
+shown below:
+ECL allowance on treasury bills - 202
+ECL allowance on loans and receivables - -
+Charged to profit or loss during the period - 202
+6.3 Financial assets at fair value through other comprehensive income
+Quoted Shares in Transcorp Plc (Note 6.3.1) 200,080 175,291
+6.3.1 Investment in quoted shares (Transcorp Plc)
+At 1 July 175,291 159,356
+Fair value loss during the year (Note 29) 24,789 15,935
+At 30 September 200,080 175,291
+As at 31st March 2022, the Company had 177,062,222 units of Transcorp Plc shares.
+Transcorp's share valued at N200.08 million.
+7 Reinsurance assets
+Reinsurer share of outstanding claims (Note 7.1) 210,895 255,100
+Reinsurer's share of claims IBNR (Note 7.2) 101,023 101,023
+Reinsurer's share of UPR (Note 7.3) 12,119 12,119
+324,037 368,242
+These represent amounts recoverable from reinsurers in respect of claims incurred and
+reinsurance premium paid of which risks have not expired.
+The reinsurance assets are of current maturity.
+43
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER
+ENDED 31 DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+2022 2021
+7 Reinsurance assets - cont'd N'000 N'000
+7.1 Reinsurer share of outstanding claims
+Life business claims recoverable - -
+Non-life business claims recoverable 210,895 255,100
+210,895 255,100
+Movement in claims recoverable during the year is as follows:
+At 1 October 255,100 255,100
+(Decrease)/Increase during the year (Note 32a) (44,205) 0
+At 31 December 210,896 255,100
+Claims recoverable represents balances due from re-insurance companies in respect of
+claims paid. During the year, the Company did not carry out a reconciliation of claims
+recoverable with its reinsurers due to the suspension of its operation licence. Meanwhile, the
+assets were impaired during the year, which reduced the value to N155.59 billion (2021
+N255.1 billion) in claims recoverable as at the reporting date.
+7.2 Reinsurer's share of IBNR
+Non-life business IBNR 101,023 101,023
+101,023 101,023
+Movement in Reinsurer's Share of IBNR during the period is as
+follows: 101,023 101,023
+At 1 October (0) -
+(Decrease)/increase during the period (Note 32a) 101,023 101,023
+At 31 December
+7.3 Reinsurer's Share of UPR
+Non-life business UPR 12,119 12,119
+12,119 12,119
+7.3.1 Movement in Reinsurer's Share of UPR
+At 1 October 12,119 12,119
+Decrease during the year (Note 15.6) 0 -
+At 31 December 12,119 12,119
+8 Trade receivables
+At 1 October 8,074 2,275
+Additions during the period 775 5,799
+Received during the period - -
+At 31 December 8,849 8,074
+Allowance for impairment - due from insurance companies and brokers (Note 37b) - 0
+Carrying amount at 31 December 8,849 8,074
+44
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER
+ENDED 31 DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+ALLIANCE INSURANCE PLC
+2022 2021
+FINANCIAL STATEMENTS FOR THE FIRST QUARTER
+9 Other receivables and prepayments N'000 N'000
+ENDED 31 MARCH 2022
+Other debtors (Note 9.1) 40,000 40,000
+Interest receivable (Note 9.2) - -
+Prepaid rent 126,252 103,590
+Staff advances 409 324
+Deposit for quoted shares (Note 9.3) 656 656
+167,317 144,570
+9.1 ₦40 million loan was given to a former Director of the Company, which remained unpaid as at reporting year.
+The Director pledged 250 hectares of land in Kaduna State, valued at N40 million, as collateral. The documents for the land
+have been fully executed, but issues relating to consent and ownership have not been perfected.
+9.2 This represents accrued biannual interest on statutory deposits with the Central Bank of Nigeria.
+9.3 Deposit for quoted shares represents the Company’s subscription for right issues in Access Bank Plc which are yet to be allotted.
+11 Investment properties
+At 1 October 4,030,067 4,030,067
+Disposed during the period (Note 11.1) - -
+Reclassified from property, plant and equipment (Note 13) - -
+Reclassified to other receivables and prepayments (Note 9) - -
+Fair value (loss)/gain during the period (Note 11.2.1) - -
+At 30 December (Fair value) 4,030,067 4,030,067
+11.2 History and movement in fair value gain
+Cost as at date of initial recognition 3,186,501 3,186,501
+Cumulative fair value gain at 1 October 843,566 843,566
+Fair value loss for the year - -
+Cumulative fair value gain at 31 December 843,566 843,566
+At 31 December 4,030,067 4,030,067
+11.2.1 Fair value loss reported in the statement of profit or loss
+Fair value changes in investment properties
+45
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER
+ENDED 31 DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS
+Fair value Balance at
+Movements in investment properties 2022 gain at 1 Balance at 1 Addition during the Sold during the Revaluation 30
+Cost April April period period (loss) June
+250 hectars of Farmland at Mydumbi Village N'000 N'000 N'000 N'000 N'000 N'000 N'000
+11 units of 4-bedroom terrace houses at New County
+Estate, Lekki, Lagos 1,045,000 - 1,168,750 - - - 1,168,750
+10 units of 2 Bedroom Terrace houses at No 17,
+Gbangbala Road, Ikate Elegushi, Lekki 244,734 - 661,184 - - - 661,184
+One wing of 4 bedroom duplex, Lekki, Lagos
+57,371 - 97,284 - - - 97,284
+Six (6) storey lettable office complex - Ebute Metta 201,301 - 875,325 - - - 875,325
+Six (6) bedroom detached house, Asokoro-Abuja 268,595 - 757,149 - - - 757,149
+Abuja plot of Land at Cadastral Zone. 320,000 - - - - - -
+Oreki Village, Ibeju, Lekki. 600,000 - 450,000 - - - 450,000
+Shapati Village, Ibeju, Lekki. 446,000 - - - - - -
+Flat 3,Block 2, Kadiri Estate, Joseph Dosu, Badagry. 3,500 - 20,375 - - - 20,375
+3,186,501 - 4,030,067 - - - 4,030,067
+Reclassified to
+Fair value other receivables Balance as
+Movements in investment properties 2021
+gain at 1 Balance at 1 Reclassified from and prepayments Revaluation at 30
+Cost April April PPE (Note 14) (Note 10) (loss)/gain June
+250 hectares of Farmland at Mydumbi Village - - - - - - -
+11 units of 4-bedroom terrace houses at New County 1,045,000
+Estate, Lekki, Lagos
+- 1,168,750 - - - 1,168,750
+10 units of 2 Bedroom Terrace houses at No 17, 244,734
+Gbangbala Road, Ikate Elegushi, Lekki
+- 661,184 - - - 661,184
+One wing of 4 bedroom duplex, Lekki, Lagos 57,371 - 97,284 - - - 97,284
+Six (6) storey lettable office complex - Ebute Metta 201,301 - 875,325 - - - 875,325
+Six (6) bedroom detached house, Asokoro-Abuja 268,595 - 757,149 - - - 757,149
+Abuja plot of land, Cadasral Zone 320,000 - - - - - -
+Oreki Village, Ibeju, Lekki. 600,000 - 450,000 - - - 450,000
+Shapati Village, Ibeju, Lekki. 446,000 - - - - - -
+Flat 3,Block 2, Kadiri Estate, Joseph Dosu, Badagry. 3,500 - 20,375 - - - 20,375
+3,186,501 - 4,030,067 - - - 4,030,067
+46
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER
+ENDED 30 DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS
+11.3 The status of the Company's investments properties are detailed below:
+S/N Description of Date of Nature of Locations Carrying Steps taken
+Name on Title Document Properties Acquisition Document Amount N'000 for perfection
+i Standard Alliance Insurance Plc Warehouse 2015 Deed of Oreki Village, Ibeji-Lekki 450,000 Perfection in
+Assignment progress
+ii Standard Alliance Insurance Plc 11 Unit of 4 2009 Registered Title New County Terrace, Iroko Awe, Lekki 1,210,000 Near
+Bedroom Flat Pennisula Perfection
+iii Standard Alliance Insurance Plc 10 Units of 2 B/R 2003 Deed of No 17 Gbangbala Road, Ikate, Elegushi, 800,000 Perfected
+Terace Hse Assignment Lekki, Lagos
+Standard Alliance Insurance Plc 3 Bedroom Duplex 2012 Deed of Flat 3, Block 2, Kadiri Est, Joseph Dosu 26,000 Perfection in
+Assignment Way,Badagry progress
+iv Standard Alliance Insurance Plc 4 Bedroom Duplex 2003 Registered Title House 13B, Oba Adeyinka Estate, Lekki, 110,589 Near
+Lagos Perfection
+v Standard Alliance Insurance Plc Six (6) storey 2012 Registered Title No 22, Herbert Macaulay Street, Ebute Meta, 1,100,000 Perfected
+vi Standard Alliance Insurance Plc Six (6) Bedroom 2010 Deed of House 1207, Yakubu Gowon, Asokoro, Abuja 920,000 Perfection in
+Detached House Assignment progress
+4,616,589
+Investment properties held by Standard Alliance Insurance Plc were independently valued by Osaro Eguasa & co (FRC/2012/0000000000423) and James Garuba & Company
+(FRC/1999/00000003709) on 31 December 2022. The fair value of each of the properties was determined by discounting the expected cash flows of each property based upon internal plans
+and assumptions and comparable market transactions.
+47
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+OTHER NOTES TO THE FINANCIAL STATEMENTS
+12 Intangible asset
+Computer software 2022 2021
+Cost N'000 N'000
+At 1 October 15,000 15,000
+Addition during the - -
+period 15,000 15,000
+At 31 December
+Amortisation
+At 1 October 15,000 15,000
+Amortisation for the - -
+period 15,000 15,000
+At 31 December
+Carrying amount at 31 December - -
+The intangible asset relates to the Company's accounting software package, Global Insurance Business Solution (GIBS) which is an underwriting
+solution software bought from a Nigerian Information Technology Company, Intteck Global systems Limited.
+48
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED
+31 DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS
+Furniture and Computer Office
+13 Property, plant and equipment Building Motor vehicles fittings equipment equipment Generating set Total
+Cost/valuations: N'000 N'000 N'000 N'000 N'000 N'000 N'000
+At 1 October 2021 64,634 823,290 294,374 134,985 193,049 123,357 1,633,689
+Additions - - - 422 47 - 469
+Write off (64,634) (36,795) (14) - - (110) (101,553)
+At 31 December 2021 - 786,495 294,360 135,407 193,096 123,247 1,532,605
+At 1 October 2022 - 786,495 294,360 135,407 193,096 123,247 1,532,605
+Additions - - 320 183 278 - 781
+At 30 December 2022 - 786,495 294,680 135,590 193,374 123,247 1,533,386
+Accumulated depreciation and impairment:
+At 1 October 2021 5,366 823,103 224,500 131,908 187,910 123,335 1,496,122
+Charge for the period - - 23,665 2,160 2,904 - 28,729
+Write off (5,366) (36,690) (14) - - (89) (42,159)
+At 31 December 2021 - 786,413 248,151 134,068 190,814 123,246 1,482,692
+At 1 October 2022 - 786,413 248,151 134,068 190,814 123,246 1,482,692
+Charge for the period - 82 13,094 1,111 743 - 15,030
+At 31 December 2022 - 786,495 261,245 135,179 191,557 123,246 1,497,722
+Carrying amounts as at:
+31 December 2022 - - 33,435 411 1,817 1 35,663
+30 December 2021 - 82 46,529 1,339 2,282 1 50,233
+49
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+13.2 The status of the Company's land and buildings is as detailed below
+Name on Title Document Date of Nature of Carrying Steps for
+Acquisition Document Location amount perfection
+N'000
+Deed of Plot 1, Block 94,
+Standard Alliance Insurance Plc 2009 Providence Street, Lekki, - Sold
+Assignment
+Lagos
+Plot 1, Block 94,
+Deed of
+Standard Alliance Insurance Plc 2011 Providence Street, Lekki, - Sold
+Assignment
+Lagos
+Registered No 20, Fola-Bolumole Near
+Standard Alliance Insurance Plc 2001 -
+Title Street, Ibadan Perfection
+-
+None of the Company's assets was pledged as security on loan as at year end (2021: Nil).
+There was an impairment loss recognised in the Company's property, plant and equipment at the end of the year.
+2022 2021
+N'000 N'000
+14 Statutory Deposits
+Statutory deposit for life business 200,000 200,000
+Statutory deposit for non-life business 335,000 335,000
+535,000 535,000
+These represent 10% of the minimum paid up share capital deposited with the Central Bank of
+Nigeria in accordance with Section 10 (3) of the Insurance Act, CAP I17, LFN 2004.
+15 Insurance contract liabilities
+Unearned premium reserves (Note 15.1) 2,066 64,202
+Outstanding claims (Note 15.2) 2,158,723 2,089,839
+Provision for claims incurred but not reported (IBNR) (Note 15.3) 571,154 598,724
+Individual life (Note 15.4) 14,565 13,460
+Annuity fund (Note 15.5) 2,332,316 2 ,271,234
+5,078,824 5,037,459
+Life Insurance contract liabilities N'000 N'000 N'000
+Risk liability DA liability Gross liability
+Individual life risk contract 8,731 142,378 151,109
+Individual investment and risk contract 5,834 2,571,151 2,576,985
+PFA's annuities 2,220,421 - 2,220,421
+Total annuity business 2,234,986 2,713,529 4,948,515
+GSLAS 1,078,250 - 1,078,250
+Total 3,313,236 2,713,529 6,026,765
+Non- Life Insurance contract liabilities
+Reinsurance
+Gross liability Assets Net liability
+Claims reserve 1,533,497 - 1,533,497
+UPR 2,066 - 2,066
+IBNR 230,025 - 230,025
+Total Non-Life Insurance contract liabilities 1,765,588 - 1,765,588
+15.1 Unearned premium reserves
+Aviation - -
+Bond 7 147
+Fire 53 5,194
+General accident 868 33,318
+Marine 76 6,561
+Motor 1,059 18,979
+Oil & gas 2 3
+2,066 64,202
+15.1.2 Movements in unearned premium reserve
+At 1 October 64,202 114,570
+Decrease in during the period (Note 30) (62,136) (50,368)
+At 31 December 2,066 6 4,202
+50
+2022 2021
+15.2 Outstanding claims reserves N'000 N'000
+Aviation 36,354 34,721
+Bond 57,481 54,899
+Engineering 47,899 45,747
+Fire 40,829 38,995
+General accident 403,195 385,084
+Marine 52,617 50,253
+Motor 38,903 37,155
+Oil & Gas 856,219 817,758
+Group life 625,226 625,226
+2,158,723 2,089,803
+15.2.1 Movements in outstanding claims are further analyzed below:
+At 1 October 2,089,838 1,818,992
+Increase/(decrease) during the period (Note 32) 68,885 270,846
+At 31 December 2,158,723 2,089,838
+15.2.2 The age analysis of outstanding claims are:
+0 - 90 days -
+91 - 180 days -
+181 - 270 days 13,341 -
+271 - 365 days 265,424 171,797
+366 days and above 1,879,957 1,918,041
+2,158,723 2,089,839
+The delay in settlement of outstanding claims that are over 90 days was as a result of late submission of necessary documents and
+data on the part of the claimants. Also, the need to verify the veracity of the claims contributed to this delay.
+15.2.3 REASONS FOR OUTSTANDING CLAIMS CAN BE ANALYSED AS FOLLOWS:
+0-90 91-180 181-270 271-365 Above 365 2022
+31 December 2022 DAYS DAYS DAYS DAYS DAYS Total
+N'000 N'000 N'000 N'000 N'000 N'000
+Discharge Voucher Issued- Life 8,525 107,021 200,884 316,429
+Discharge Voucher Issued- Non-Life 1,308 7,725 528,790 537,824
+Awaiting Lost Adjusters report 37,501 132,792 170,293
+Awaiting Documentation from Claimants 3,508 12,517 520,425 536,450
+Abandoned by Claimants 6,495 331,435 337,930
+Incomplete Documentations by Claimants 94,165 165,631 259,796
+TOTAL - - 13,341 265,424 1,879,957 2,158,723
+0-90 91-180 181-270 271-365 Above 365 2021
+31 December 2021 DAYS DAYS DAYS DAYS DAYS Total
+N'000 N'000 N'000 N'000 N'000 N'000
+Discharge Voucher Issued- Life - - - 33,403 29,329 62,732
+Discharge Voucher Issued- Non-Life - - - - - -
+Awaiting Lost Adjusters report - - 33,300 414,222 447,522
+Awaiting Documentation from Claimants - - - 4,434 713,538 717,972
+Abandoned by Claimants - - - 6,495 135,726 134,545
+Incomplete Documentations by Claimants - - - 94,165 625,226 2,628,724
+TOTAL - - - 171,797 1,918,040 2,089,839
+51
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+2022 2021
+15.3 IBNR Per Actuarial valuation N'000 N'000
+Aviation 5,453 5,208
+Bond 8,622 8,235
+Engineering 7,185 6,862
+Fire 6,124 5,849
+General accident 60,479 57,763
+Marine 7,893 7,538
+Motor 5,835 5,573
+Oil & Gas 128,433 122,664
+Life 341,129 379,032
+571,153 598,724
+15.3.1 Movement in IBNR
+At 1 October 598,724 418,746
+(Decrease)/increase during the period (Note (27,571) 179,978
+32) 571,153 598,724
+At 31 December
+15.4 Movement in individual life
+At 1 October 13,460 264,898
+Increase/(decrease) during the 1,105 (251,438)
+period 14,565 13,460
+At 31 December
+Movement in group life
+At 1 October 886,717
+During the period (886,717)
+At 31 December -
+15.5 Movement in annuity fund
+At 1 October 2,271,234 2,610,145
+Increase during the period 61,082 (338,911)
+At 31 December 2,332,316 2,271,234
+Adjustments* - This is to align the UPCL bank confirmation balance to the ledger.
+The Company Insurance Contract Liabilities for both Life and Non-Life businesses is established at the end of the year by Becoda
+Consulting Limited with FRC/2019/00000012909. The report was signed by Benjamin Awunor with Financial Reporting Council
+Number FRC/2015/PRO/NAS/004/00000012946.
+15.6 Reinsurance expenses
+Reinsurance cost - 23,954
+Changes in UPR (Note 7.3.1) 44,205 -
+44,205 23,954
+15.7 Cash payments for reinsurance
+Reinsurance cost (Note 15.6) - (23,954)
+Changes in due to reinsurer payable (Note 17) (36,257) -
+Per statement of cash flows (36,257) (23,954)
+16 Investment Contract Liabilities
+At 1 October 2,584,313 455,519
+Amount received in the period 129,216 2,128,794
+Interest expenses - -
+Withdrawals - -
+At 31 December 2,713,529 2,584,313
+17 Trade payables
+Due to Reinsurer - 36,257
+Underwriting expenses payable - 7,948
+- 44,205
+The trade payables are all of current maturity.
+52
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+2022 2021
+N'000 N'000
+18 Other payables and accruals
+Statutory deductions (Note 18.1) 206,614 199,147
+Information technology development levy (Note 38) 8,406 8,406
+Rent received in advance (Note 18.2) 1,553 373
+Due to staff 11,293 200,994
+Accrued expenses (Note 18.4) 39,926 157,623
+Unclaimed dividend 3,182 3,182
+Deferred Commission Income (18.5) - -
+Preference dividend payable (Note 18.6) 175,000 175,000
+Amount due to other beneficiaries (Note 18.7) 2,590 56,272
+Annuity fund fee payable (Note 18.8) 16,651 16,651
+Industrial training fund - -
+Directors' current account 33,271 33,271
+Unearned interest on treasury bills - -
+498,487 850,919
+The above are further analysed as:
+Current 498,487 850,919
+Non-current - -
+498,487 850,919
+18.1 Statutory deductions
+PAYE payable 110,224 106,915
+Pension payable 54,557 50,399
+VAT payable 3,824 3,824
+Withholding tax 38,009 38,009
+206,614 199,147
+18.2 Movement in rent received in advance
+At October 1 373 1,000
+Additional rental Income received 1,501 1,840
+Rental income recognised during the period (Note (321) ( 2,467)
+34a) 1,553 3 73
+At 31 December
+18.3 Accrued expenses
+Audit fee accrual 23,000 19,500
+Management expenses payable 13,914 13,914
+Others 3,012 124,209
+39,926 157,623
+53
+2022 2021
+18.5 Deferred Commission Income
+At October 1
+N'000 N'000
+Addition During the period
+- 1,190
+Amortised During the period (Note
+- (1,190)
+31) - -
+At 31 December - -
+18.6 Preference dividend payable 175,000 175,000
+The Company had 17,500,000 (Seventeen Million, Five Hundred Thousand units of preference shares of N100 (One Hundred Naira)
+each prior to year ended 31 December 2011. These were converted to ordinary shares of 50k (50 Kobo) each in the Company and
+issued to the holders of the preference shares as at 31 December 2011 in accordance with the resolution passed at the 15th Annual
+General Meeting of 16th December 2011. The amount of N175 million is the balance of pre conversion dividend yet unpaid as at 31
+December 2020 reporting date.
+18.7 Amount due to other beneficiaries N'000 N'000
+Staff fines and penalties 1,139 5,446
+Staff group life payable - 151
+Other creditors 1,451 50,675
+2,590 56,272
+18.8 Annuity fund fee payable N'000 N'000
+At October 1 16,651 16,651
+Addition during the period 0 (0)
+At December 31 16,651 16,651
+Annuity fund fee represents a provision of 1% out of annuity premium received in a financial year. This is being proposed by
+NAICOM. The balance at the end of the year represents provisions as at reporting dates.
+19 Borrowings N'000 N'000
+Daewoo Secuirities Bond (Note 19.1) 1,976,233 1,994,015
+Cowry Asset Management Limited (Note 19.2) - -
+1,976,233 1,994,015
+54
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+19.1 Daewoo Securities Bond
+The Company received a capital inflow of JPY650,000,000 ($7,397,516) zero coupon bond raised from Daewoo Securities in
+December 2009.
+The bond was tenured originally for 20 years with the lenders' option to convert the bond to Standard Alliance Insurance Plc's
+ordinary shares. If the option is not exercised, the Company must pay interest 4.25% per annum on the gross bond value for the
+entire term it has been outstanding.
+Daewoo Securities requested for the full redemption of the bond in 2011 following which the Company went to a negotiation with it
+and a repayment plan with the bond owners was renegotiated in 2012. Further negotiations commenced in 2015 and are still on-
+going. The Company's oustanding liability to Daewoo Securities as at 31 December 2022 is JPY580,562,000 (2021:JPY556,894,000),
+principal and interest inclusive.
+Further details of transactions during the year are:
+Principal Interest Total 2022 2021
+JPY'000 JPY'000 JPY'000 N'000 N'000
+At 1 October 398,203 158,691 556,894 1,994,015 1,682,419
+Interest accrued during the - 23,668 23,668 76,688 82,446
+period - - - ( 94,470) 229,150
+Foreign exchange difference 398,203 182,359 580,562 1,976,233 1,994,015
+Current maturities JPY'000 JPY'000
+Interest 182,359 158,691
+Principal 398,203 398,203
+Total current maturities 580,562 556,894
+Non-current principal maturity - -
+580,562 556,894
+The balance of JPY 580,562,000 (2021: JPY 556,894,000) is stated in the financial statements at the Central Bank of Nigeria closing
+exchange rate of N3.404/JPY as at 31 December 2022. Subsequent to 2022 reporting period, no payment has been made on
+principal and interest.
+19.2 Cowry Asset Loan N'000 N'000
+At 1 October - 101,526
+Repayment during the year - (101,526)
+At 31 December - -
+Repayments during the
+period - 100,000
+Principal - 1,526
+Loan interest charge - 101,526
+The Company entered into a new loan arrangement with Cowry Assets Management Limited for working capital needs. The new
+loan was consummated in July 2019 at a value of N300million. The loan is payable within one year at the interest rate of 28%.
+55
+21 Current income tax liabilities
+Per Statement of Comprehensive income
+Company income tax 1 1,915
+Education tax - -
+Deferred tax - -
+1 1,915
+Per Statement of Financial Position:
+At 1 October
+Company income tax 273,735 316,820
+Education tax - -
+273,735 316,820
+Provisions for the period:
+Company income tax 1 1,915
+Education tax - -
+Payments during the
+period: - (45,000)
+Company income tax
+273,736 273,735
+At 30 June
+22 Deferred tax liabilities
+At 1 October 61,909 61,909
+Charged for the period - -
+Tax on gain/(loss) on revaluation of property, plant and equipment - -
+At 31 December 61,909 61,909
+56
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+D ECEMBER 2022
+NO TES TO THE FINANCIAL STATEMENTS (continued)
+23 Ordinary share capital 2022 2021
+Units Units
+Authorized '000 '000
+14,000,000,000 ordinary shares of 50k each 14,000,000 14,000,000
+N'000 N'000
+14,000,000,000 ordinary shares of 50k each 7,000,000 7,000,000
+Issued and Fully Paid Units Units
+At 1 October 12,911,030 12,911,030
+Addition during the period - -
+At 31 December 12,911,030 12,911,030
+N'000 N'000
+At 1 October 6,455,515 6,455,515
+Addition during the period - -
+At 31 December 6,455,515 6,455,515
+24 Treasury share (1,145) (1,145)
+Treasury share represents the standard Alliance Assurance Life Limited investment in Standard Alliance Insurance Plc
+reclassified to treasury share upon merger of the two companies in 2017.
+25 Share premium
+At 1 October 7,484,955 7,484,955
+Addition during the - -
+period 7,484,955 7,484,955
+At 31 December
+Share premium comprises additional paid-in capital in excess of the par value.
+This reserve is not ordinarily available for distribution.
+26 Contingency reserves
+At 1 October 1,768,801 1,756,720
+Charge for the year (Note 27) 3,160 12,080
+At 31 December 1,771,961 1,768,801
+In compliance with section 21(1) of Insurance Act 2003, the contingency reserve
+for Non-life insurance business is credited with the greater of 3% of total
+premium, or 20% of the net profits. This shall accumulate until it reaches the
+greater of minimum paid-up capital and 50% percent of the net premium. For
+life business, the contigency reserve is credited with an amount equal to 1% of
+gross premium or 10% of net profit (whichever is greater) and accumulated
+until it reaches the amount of mimimum paid-up capital.
+57
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED
+31 DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+26 Contingency reserves - cont'd
+As required by insurance regulations, a contingency reserve is maintaned for both the non-life insurance and life
+assurance contracts underwritten by the Company. The appropriation to contingency reserve for non-life
+underwriting contracts is calculated in accordance with sections 21 (2) and 22 (1) of the Insurance Act 2003. The
+reserve is calculated at the higher of 3% of gross premium and 20% of net profits of the business for the year. The
+appropriation to contingency reserve for life underwriting contracts is calculated at the higher of 1% of the gross
+premium and 10% of net profits of the business for the year. The appropriations are charged to the life fund.
+2022 2021
+27 Accumulated loss N'000 N'000
+At 1 October (18,925,882) (17,189,298)
+Gain/(Loss) for the period (838,937) (1,724,503)
+Appropriation to contingency reserves (Note 26) (3,160) (12,080)
+At 31 December (19,767,979) (18,925,882)
+28 Revaluation Reserves
+At 1 October 48,292 48,292
+Revaluation loss charged to other comprehensive income during the year -
+Revaluation surplus reversed during the period -
+At 31 December 48,292 48,292
+Further details are:
+Revaluation loss (Note 13) -
+Less: Tax on loss on revaluation -
+- -
+29 Fair Value Reserves N'000 N'000
+At 1 October 21,245 5,310
+Increase during the period 24,789 15,935
+At 31 December 46,034 21,245
+-
+The fair value reserves shows the effect from the fair value measurement of financial instruments of the category
+available for sale now classified as financial asset at fair value through other comprehensive income. Any gains or
+losses are not recognised in the comprehensive income statement until the asset has been sold or impaired.
+30 Gross premium N'000 N'000
+General business 28,627 255,137
+Group life 12,817 136,841
+Individual life 63,886 1,491
+Annuity - 9,201
+105,330 402,670
+Movement in unexpired risks (Note 16.1.2) 62,136 50,368
+167,466 453,038
+58
+32 Claims expenses
+Claims paid 599,432 430,241
+Change in outstanding claims (Note 15.2.1) 68,885 270,846
+Change in claims incurred but not reported (Note 15.3.1) (27,571) 179,978
+640,746 881,065
+Claims expenses recovered from reinsurers (Note 32(a)) - -
+640,746 881,065
+32a) Claims paid recovered from reinsurers - (58)
+Change in claims paid recoverable (Note 7.1) (44,205) -
+Change in reinsurer's share of IBNR (Note 7.2) (0) -
+(44,205) (58)
+33 Underwriting expenses
+Acquisition costs (Note 10):
+Aviation - 178
+Bond 21 844
+Engineering 154 946
+Fire 589 5,255
+General accident 257 5,288
+Marine 507 7,356
+Motor 1,431 11,363
+Oil and Gas 1 222
+Life 6,192 9,401
+9,151 40,853
+Other acquisition costs - -
+9,151 40,853
+33a Commission paid analysis
+Acqusition costs (Note 33) (9,151) (40,853)
+Changes in commission payable (Note 18) (7,948) (7,095)
+Per statement of cash flows (17,099) (47,948)
+34(a) Investment income
+Interest on deposits 22,726 10,407
+Interest on teasury bills - -
+Rental income 321 2,467
+Dividend received 3,683 415
+26,730 13,289
+The investment income is attributable to:
+Annuity fund - 2,424
+Insurance fund 9,337 1,035
+Shareholders fund 13,419 4,766
+Investment income per statement of profit or loss 22,756 8,226
+Investment fund (Note 35) - 1,780
+22,756 10,006
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIA L STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+2022 2021
+34(b) Other income N'000 N'000
+Gain on sale of property, plant and equipment 100 14,139
+Charges/penalties for loss of policy documents - -
+Sundry Income - 1,277
+100 15,416
+35 Gain/(loss) on investment contract liabilities
+Investment income attributable to investment
+- 1,780
+contracts (Note 34)
+Guaranteed interest on investment contracts (Note 16) - -
+- 1,780
+36 Management expenses
+Salaries and Allowances 123,228 330,411
+Other staff costs 15,276 18,479
+Directors' fee and allowances 22,840 38,755
+Insurance expenses - 6,212
+Rent and rates 1,512 30,022
+Repairs and maintenance 16,686 81,275
+Depreciation 15,032 28,856
+Legal and professional fees 98,504 89,534
+Bank charges 575 2,656
+Printing and stationery 3,695 7,531
+Advertising and promotion expenses - 1,598
+Books and periodicals - 10
+Telephone and postages 9,090 13,367
+Other administrative expenses 51,480 190,374
+Write off (Note 36a) - -
+Actuarial cost 12,000 1,500
+Staff training and development - 6,253
+Audit fee 3,500 3,500
+Corporate and public relation expenses 2,536 10,836
+Travelling, outstation and hotel expenses 29,204 21,147
+405,158 882,316
+36(b) Expected credit loss expense
+Allowance for credit losses - Cash (Note 5(a)) - (529)
+Allowance for credit losses - Treasury bills (Note 6.2.3) - -
+Allowance for credit losses - Loans and receivables (Note 6.2.3) - -
+- (529)
+36(e) Allowance for impairment - Treasury bills
+Reversal for impairment - Treasury bills (Note 6.2.2) 202
+60
+2022 2021
+37 Finance charges N'000 N'000
+Interest expenses on loan 76,688 135,920
+Interest on Daewoo bond - -
+76,688 135,920
+38 Information Technology Development Levy
+At 1 October - 8,406
+Charge for the period - -
+Payment during the period - -
+At 31 December - 8,406
+The Nigerian Information Technology Development Agency (NITDA) Act was signed into law on 24 April, 2007.
+Section 12(a) of the Act stipulates that specified Companies contribute 1% of their profit before tax to the Nigerian
+Information Technology Development Agency.
+39 Profit before taxation
+Profit before taxation is stated after charging:
+Depreciation 15,030 28,707
+Auditors' remuneration 3,500 3,500
+Director's remuneration 22,840 38,755
+39.1 Messrs. Muhtari Dangana & Co (Chartered Accountants) did not provide any other service to the Company during
+the year.
+40 Premium receipt from policy holders
+Premium due from policy holder at 1 April 8,074 2,275
+Gross Premium written in the period 105,330 402,670
+113,404 404,945
+Premium due from policyholders at 30 June (8,849) (8,074)
+Premium receipts in the period 104,555 396,871
+41 Basic (loss)/earnings per share
+Basic loss per share is calculated by dividing the net loss attributable to ordinary shareholders by the weighted
+average number of ordinary shares in issue during the year.
+Loss for the year (N'000) (838,937) (1,724,503)
+Number of shares ('000) 12,911,030 12,911,030
+Basic loss per share (Naira) (6.50) (13.36)
+42 Going concern of Company
+The events and conditions listed below indicate that there may exist material uncertainty that cast doubt on the
+Company’s ability to continue as a going concern entity within a foreseeable future:
+i. Shortfall of existing ₦5billion regulatory minimum paid-up capital of the Company by ₦8.962 billion as at 31
+December, 2022;
+ii. Deteriorating solvency margin of the Company which increased from a deficiency of ₦10.435 billion (2021: (N9.370
+billion)
+iii. Accumulated losses of ₦19.768 billion (2021: ₦18.926 billion) as at 31 March, 2022, which resulted in negative equity
+of the Company of ₦3.962 billion as at 31 March, 2022;
+iv. The high impairment allowances over the years on the Company’s investment properties suggesting possible inability
+to realize them and discharge its liabilities in the normal course of business; and
+v Significantly reduced staff workforce and low morale of staff
+Management is however executing mitigating procedures and are working assiduously to inject fresh capital through
+a recapitalization and business restructuring plan involving major prospective investors.
+61
+STANDARD ALLIANCE INSURANCE PLC
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+43 Events after reporting period
+Introduction of a new investor
+On the 5th of January 2022, an Investor, QPI Consultants FZE through a special purpose vehicle (SPV) named Endura
+Investment Global Limited (EIG) showed interest in obtaining regulatory approval for the purchase of 3,140,774,908 ordinary
+shares in Standard Alliance Insurance Plc at N0.01 each. Purchase of the shares will give the new investor 26.4% of the issued
+capital of the Company. The investor will be in a position to restructure the business and turn it around with a minimum
+amount of U$8million. Subsequently, the transaction was consummated on the 19th of August 2024 with the approval of the
+Nigerian Exchange Limited (NGX). The Company subsequently injected N12 Billion additional capital in February 2025.
+Cancellation of Certificate of Registration and Authorization to Continue to carry on Insurance
+Business.
+The National Insurance Commission (NAICOM) revoked the certificate of registration of Standard Alliance Insurance Plc,
+effective from June 21, 2022. Consequent upon a judgement of the Federal High Court delivered on the 7th July, 2023,
+reversing the revocation of the Company’s licence and the Company application for No-objection for the acquisition of its
+shares by Endura Investment Global Limited, on 18th December 2023, NAICOM provisionally authorised the Company to
+continue to carry on insurance business in accordance with its certificate of registration subject to satisfaction of other
+conditions, eg approval of other relevant regulatory bodies, final court order authorising the acquisition.
+Change of company's name
+At the Extra-Ordinary General Meeting of the company held on 4th April 2025, the shareholders approved the change of the
+Company's name from Standard Alliance Insurance Plc to Fortis Global Insurance Plc. In 25th April 2025, the Corporate Affairs
+Commission awarded a certificate of Registration to the Company.
+44 Fair value Hierarchy
+The Company's fair value measurements model is highlighted in accounting policy 4.2.
+Level 1
+Fair value measurements classified as level 1 include fair values of quoted investments based on current market prices.
+Level 2
+Fair value measurements classified as level 2 include fair values of unquoted investments which the Company established using
+valuation techniques such as:
+• recent arm's length transactions
+• reference to other instruments that are substantially the same
+• net assets value and
+• discounted cash flows
+Level 3
+Fair value measurements classified as level 3 include fair values of financial assets of which there are no active markets and no
+observable inputs. They comprise loans and other receivables.
+The table below highlights financial instruments in their various fair value hierarchies at year end:
+2022
+Asset type Total Level 1 Level 2 Level 3
+N'000 N'000 N'000 N'000
+Quoted securities - At fair value
+through profit or loss 40,501 40,501 - -
+Quoted securities - At FVOCI 200,080 200,080 - -
+240,581 240,581 - -
+2021
+Asset type
+Quoted securities - At fair value
+through profit or loss 36,461 36,461 - -
+Quoted securities - At FVOCI 175,291 175,291 - -
+211,752 211,752 - -
+62
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+45 CONTRAVENTION OF LAWS AND REGULATIONS
+45.1 Penalty by NAICOM
+During the year the Company contravened certain sections of the Insurance Act, CAP I17, LFN 2004 and
+NAICOM's operational guidelines. Details of the contraventions and appropriate penalties thereon are as follows:
+Amount of penalty
+Section Nature of infraction 2022 2021
+N'000 N'000
+Operational guideline Non-rendition of AML/CFT (Anti-
+Money Laundering/ Countering of
+- -
+Financing of terrrorism) employee
+training plan
+Late submission of 2018 reinsurance
+Operational guideline Treaty to NAICOM - -
+Late submission of 2019/2018
+Operational guideline
+Accounts to NAICOM - -
+Operational guideline Fines and Penalty income/processing -
+-
+fees for NAICOM
+- -
+46 Directors and employees
+Employees
+The average number of persons employed by the Company during the year by category
+2022 2021
+Number Number
+Excecutive Director 2 2
+Management Staff 14 14
+Non-management staff 122 122
+138 138
+Staff cost for the above persons (Excluding Executive Directors) was:
+Salaries and allowances 123,228 330,411
+Other staff cost 15,276 18,479
+138,504 348,890
+The number of employees of the company other than Director who received emolument in the following range
+was:
+Number Number
+N900,001 - N1,100,000 52 52
+N1,100,001 - N1,300,000 6 6
+N1,300,001 - N1,500,000 4 4
+Above - N1,500,000 74 74
+136 136
+63
+STANDARD ALLIANCE INSURANCE PLC
+FINANCIAL STATEMENTS FOR THE FOURTH QUARTER ENDED 31
+DECEMBER 2022
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+46 Directors and employees (Cont'd)
+Directors' Remuneration
+Directors' Remuneration
+The remuneration paid to the Directors of the company was: N'000 N'000
+Fees and other allowances 45,408 45,408
+Executive compensation - -
+22,840 38,755
+Fees and other emoluments disclosed above include amount paid to: N'000 N'000
+The Chairman
+Highest paid Director 20,100 20,100
+20,100 20,100
+The number of Director who received fees and other emolument
+(excluding pension contribution) in the following ranges was: Number Number
+N1,000,001 - N2,000,000 - -
+N2,000,001 and above 3 3
+3 3
+47 Contingent liabilities
+Material contingent liabilities have been made or are likely to be made in these financial statements.
+48 Related party transactions
+Related parties include the related Companies, the directors and any employee who is able to exert significant
+influence on the operating policies of the Company. Key management personnel are also considered related
+parties. Key management personnel are those persons having authority and responsibility for planning, directing
+and controlling the activities of the entity, directly or indirectly, including any director (whether executive or
+otherwise) of that entity.
+During the year under review, there were no material transactions between related parties. Transactions with
+related parties are as stated in note 45 above.
+49 Events after the reporting period
+There were no events after the reporting period which could have material effect on the financial position of the
+Company as at 31 March 2022 or the profit or loss and other comprehensive income for the year then ended which
+have not been disclosed.
+64
