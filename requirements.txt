@@ -4,3 +4,9 @@ pytesseract
 pillow
 beautifulsoup4
 streamlit
+pymupdf
+openpyxl
+opencv-python-headless
+sentence-transformers
+camelot-py[cv]
+tabulate

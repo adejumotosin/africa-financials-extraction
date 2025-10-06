@@ -1,0 +1,6 @@
+Metric,Value,Confidence,Method
+Total Revenue,54398642.0,0.9,ai_text
+Net Income,135173978.0,0.9,ai_text
+Total Assets,228516.0,0.95,ai_text
+Total Liabilities,13697475621.0,0.97,ai_table_5
+Shareholders' Equity,2994613.0,1.0,ai_table_5
