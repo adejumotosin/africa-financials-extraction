@@ -1,59 +1,126 @@
-# africa-financials-extraction
-Automated pipeline for extracting and structuring financial statements of African listed companies.
-Africa Financials Extraction
-An automated pipeline for extracting and structuring financial statements from annual reports of publicly listed companies across African stock exchanges.
+# Africa Financials Extraction
 
-The goal is to make company financial data searchable, comparable, and exportable for analysts, investors, and researchers.
-Project Overview
-African listed companies publish annual and quarterly reports in PDF/Excel formats. These reports are often unstructured, making analysis difficult.
+A financial data engineering project for turning African listed-company reports into structured, analysis-ready financial metrics.
 
-This project aims to:
-1. Crawl stock exchange websites and fetch financial reports.
-2. Parse & Extract financial data (Revenue, Net Income, Assets, Liabilities, Equity).
-3. Normalize & Validate financial statements across different reporting formats.
-4. Output structured datasets (CSV/Excel/JSON).
-5. Provide a Streamlit dashboard for comparison and export.
-Repository Structure
-africa-financials-extraction/
-│
-├── raw_data/ # Collected reports (PDF/Excel)
-├── processed/ # Clean extracted text
-├── outputs/ # Structured CSVs
-├── src/ # Source code
-│ ├── parsing/ # PDF/OCR parsing scripts
-│ ├── crawling/ # Crawlers for exchanges
-│ └── dashboard/ # Streamlit app
-│
-├── requirements.txt
-└── README.md
-Project Roadmap
-Week 1 – Setup & Data Collection: Create repo, install dependencies, collect sample reports
-Week 2 – PDF Text Extraction: Extract text, apply OCR, standardize text
-Week 3 – Financial Metric Extraction (MVP): Regex extraction for core metrics, export CSV
-Week 4 – Crawling & Ingestion: Build NSE Nigeria crawler, automate downloads
-Week 5 – Normalization & Validation: Schema mapping, validation rules
-Week 6 – Dashboard & Export: Streamlit dashboard, deploy to Streamlit Cloud
-Installation
-1. Clone the repo:
-git clone https://github.com/your-username/africa-financials-extraction.git
+The current prototype combines digital PDF parsing, table extraction, OCR fallback, metric matching, balance-sheet validation, and CSV/Excel export.
+
+## Problem
+
+Financial statements across African markets are frequently published as PDFs with inconsistent layouts, scanned pages, and exchange-specific reporting formats. This makes cross-company screening and analysis difficult to automate.
+
+This project explores a reusable extraction pipeline that converts those reports into structured data for analysts, researchers, and downstream financial applications.
+
+## Current pipeline
+
+```text
+Annual / quarterly report PDF
+          |
+          v
+PyMuPDF text blocks
+          |
+          +------> Camelot table extraction
+          |
+          +------> Tesseract OCR fallback
+          |
+          v
+Metric matching and normalization
+          |
+          v
+Balance-sheet consistency check
+          |
+          v
+CSV + multi-sheet Excel output
+```
+
+## Metrics currently targeted
+
+- Total revenue
+- Net income / profit after tax
+- Total assets
+- Total liabilities
+- Shareholders' equity
+
+The extractor searches common reporting-language variants such as revenue, turnover, sales, net income, profit after tax, and equity.
+
+## Implemented components
+
+- Digital PDF block extraction with PyMuPDF
+- Table extraction with Camelot
+- OCR fallback with Tesseract and pdfplumber
+- Regex-based financial metric matching
+- CSV output for extracted metrics
+- Multi-sheet Excel export containing metrics, text blocks, tables, and summary data
+- Basic accounting-equation validation for assets versus liabilities plus equity
+- Sample financial reports and structured output files for experimentation
+
+## Run locally
+
+```bash
+git clone https://github.com/adejumotosin/africa-financials-extraction.git
 cd africa-financials-extraction
 
-2. Create & activate virtual environment:
-python -m venv venv
-source venv/bin/activate # Mac/Linux
-venv\Scripts\activate # Windows
+python -m venv .venv
+```
 
-3. Install dependencies:
+Activate the environment:
+
+```bash
+# macOS / Linux
+source .venv/bin/activate
+
+# Windows
+.venv\Scripts\activate
+```
+
+Install dependencies:
+
+```bash
 pip install -r requirements.txt
-Data Sources
-- Nigerian Exchange (NGX): https://ngxgroup.com/
-- Nairobi Securities Exchange (NSE): https://www.nse.co.ke/
-- Johannesburg Stock Exchange (JSE): https://www.jse.co.za/
-Current Status
-- Repo created ✅
-- Dependencies installed ✅
-- First batch of sample reports collected (Nigeria, Kenya, South Africa) ✅
+```
 
-Next step → Week 2: Extract text from PDFs.
-License
-MIT License. Free to use and modify.
+Place financial reports in `raw_data/`, then run:
+
+```bash
+python semantic_financial_extractor.py
+```
+
+Generated outputs are written to `processed/`.
+
+## Data sources and market scope
+
+The broader project is designed around publicly available listed-company reports from African exchanges, including markets such as:
+
+- Nigerian Exchange Group
+- Nairobi Securities Exchange
+- Johannesburg Stock Exchange
+
+Exchange websites and individual issuer filings should be checked for their applicable terms and redistribution rules before automated collection at scale.
+
+## Current limitations
+
+This repository is a prototype rather than a production financial-data service.
+
+- Regex-based nearby-number extraction can associate the wrong value with a metric in complex statements.
+- Table structures differ substantially between issuers and reporting periods.
+- OCR accuracy depends on scan quality.
+- Currency, units, period alignment, restatements, and consolidated-versus-separate statements require stronger normalization.
+- Extracted values should be verified against the source report before analytical or investment use.
+
+## Roadmap
+
+1. Add page-level and table-level provenance for every extracted value.
+2. Introduce statement-aware parsing for income statement, balance sheet, and cash-flow tables.
+3. Normalize currency, units, reporting periods, and accounting labels.
+4. Add confidence scoring and human-review workflows.
+5. Add exchange and issuer ingestion adapters.
+6. Build company-period datasets for screening and comparison.
+7. Add automated validation tests against manually labelled financial statements.
+8. Expose structured outputs through an API and analytical dashboard.
+
+## Security note
+
+Environment files and local credentials are excluded from version control. Production credentials should always be stored in a secrets manager or deployment environment rather than committed to the repository.
+
+## License
+
+MIT License.
