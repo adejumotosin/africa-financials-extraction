@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Tooling
+.vscode/
+.idea/
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
