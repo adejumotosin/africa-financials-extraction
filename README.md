@@ -46,7 +46,7 @@ The extractor searches common reporting-language variants such as revenue, turno
 
 - Digital PDF block extraction with PyMuPDF
 - Table extraction with Camelot
-- OCR fallback with Tesseract and pdfplumber
+- OCR fallback with Tesseract and PyMuPDF
 - Regex-based financial metric matching
 - CSV output for extracted metrics
 - Multi-sheet Excel export containing metrics, text blocks, tables, and summary data
@@ -124,3 +124,59 @@ Environment files and local credentials are excluded from version control. Produ
 ## License
 
 MIT License.
+
+
+## Reliable parsing and review workflow
+
+Requires Python 3.11+ and the **Tesseract executable** (install separately from the
+Python packages, e.g. `sudo apt-get install tesseract-ocr` on Ubuntu). Camelot 1.x
+uses its PDFium backend; Ghostscript is not required by this configuration.
+
+Both entry points now use `financial_core.py`. The legacy
+`src/parsing/extract_metrics.py` command writes to `output/`; the root command
+writes to `processed/`. Paths are relative to the working directory unless supplied
+explicitly. Imports do not create directories or start extraction.
+
+```bash
+python test_env.py
+python semantic_financial_extractor.py --pdf raw_data/sample.pdf --output-dir processed
+python semantic_financial_extractor.py --pdf raw_data/sample.pdf --period 2025 --scope group
+python -m unittest discover -s tests -v
+```
+
+Each run exports CSV, Excel and JSON. JSON preserves every candidate's raw value,
+scale multiplier, currency, year, entity scope, page and row/line source. Excel
+includes metrics, page text, extracted tables and a summary. Formula-like source
+strings are escaped in spreadsheet outputs. All pages are inspected; scanned and
+image-bearing pages receive OCR even in otherwise digital documents. OCR failures
+are recorded in the summary and produce a nonzero CLI exit code. Missing files,
+empty input directories and documents with no extracted values also fail the CLI.
+
+- Exact metric labels prevent expenses and share capital from becoming totals.
+- Numbers preserve signs, parentheses and explicit zero. Dashes are missing values.
+- Comparative table columns require reporting-year headers. `--period` selects a
+  particular year; otherwise the latest labelled year is used. Multiple columns
+  with the same year and different values/scopes are ambiguous, not guessed.
+- `--scope group` or `--scope company` requires an explicitly identified scope.
+- Scale is applied before validation, including small and negative amounts.
+- Missing currency, scale, year or scope yields `needs_review`; conflicting
+  candidates yield `ambiguous` with no selected value. Missing scale preserves the
+  raw reported number in `Value`, with `Multiplier` null; it is **not** a normalized
+  base-currency amount. Consumers must check status and metadata before aggregation.
+- Balance checks require all three values and consistent reporting context.
+  Explicit zero equity is valid; missing equity is not replaced with zero.
+- Statuses are deterministic checks, not statistical confidence scores. A
+  balanced equation does not establish that a source report was parsed correctly.
+
+The parser intentionally abstains on unsupported layouts, including multiline
+numeric cells and unlabelled comparative text. It currently identifies **years**,
+not full quarter/half-year duration semantics; multiple periods within one year
+require human review. Conflicting unit/currency contexts also require review.
+There is no claim of universal issuer-layout coverage. The committed historical
+CSV/XLSX files predate this implementation and must not be treated as verified
+results from the current parser. Regenerate and verify against the source PDFs.
+
+The regression suite covers parsing, entity/period conflicts, missing-data
+validation, late-page OCR, failures, both CLI paths and all export formats. It
+includes a generated scanned PDF exercised with real Tesseract when installed;
+CI installs Tesseract and runs the suite on Python 3.11 and 3.12.
